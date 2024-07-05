@@ -1,31 +1,37 @@
-# OPTIMO (FrontEnd)
+# PRUEBA TECNIA (FrontEnd)
 
-* 💬 App de gestion de espacios edilicios
-* 🛠️ Intuitiva y de facil recorrido para el administrador
-* 📁 Soporta la subida y bajada de datos
-* 🪟 Realizada con Node.js, React, Redux toolkit, axios, Next y estilada con material UI
+* 💬 app front de prueba tecnica
+* 🛠️ Intuitiva y de facil recorrido p
+* 📁 Solo de visualizacion
+* 🪟 Realizada con React y Next
 
- <img width="1459" alt="スクリーンショット 2023-11-20 2 23 51" src="public/opti/Imagen de WhatsApp 2024-05-28 a las 17.38.34_72715ebd.jpg"> 
+ <img width="1459" alt="スクリーンショット 2023-11-20 2 23 51" src="https://github.com/AndresXX1/Prueba-tecnica/blob/main/public/Imagen%20de%20WhatsApp%202024-07-05%20a%20las%2017.49.58_bc679b84.jpg"> 
 
 ## 🌟 Quick Start
 
-1. 👤 Recorda que para acceder al dasboard de admin necesitas un usuario administrador, para ello contactate con migo :D 
+Seguime en linkedin! :D
 
 <a href="https://www.linkedin.com/in/andres-vera-676414281/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
 
 
-2. ⬇️ Clona el repositorio
+1. ⬇️ Clona el repositorio
 
     ```bash
-    $ git clone https://github.com/AndresXX1/Optimo-Front-End
+    $ git clone https://github.com/AndresXX1/Prueba-tecnica
     ```
 
-3. 📦 Instala dependencias
+2. 📦 Instala dependencias
 
     ```bash
     $ npm install
+    ```
+
+3. Inicia el proyecto y accede a la pagina 
+
+ ```bash
+    $ npm run dev
     ```
 
 
