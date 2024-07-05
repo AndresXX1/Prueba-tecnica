@@ -1,0 +1,14 @@
+.container {
+    padding: 60px;
+    background-image: url("https://cdn.wallpapersafari.com/20/62/8EyeZM.jpg");
+    background-size: cover;
+    background-position: center;
+    color: #424040; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: -20px; 
+  }

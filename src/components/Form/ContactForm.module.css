@@ -1,0 +1,90 @@
+.container {
+    background-color: #f7d2d2ad;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 300px;
+    margin: 0 auto;
+    margin-top: 100px;
+  }
+  
+  .form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .formGroup {
+    margin-bottom: 20px;
+  }
+  
+  .input {
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 1rem;
+    margin-bottom: 10px;
+  }
+  
+  .label {
+    margin-bottom: 8px;
+    font-size: 1rem;
+  }
+  
+  .radio {
+    margin-right: 10px;
+  }
+  
+  .buttonContainer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .button {
+    padding: 12px 24px;
+    background-color: #555;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  .button2 {
+    padding: 12px 24px;
+    background-color: #555;
+    margin-right: 80px;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button:hover {
+    background-color: #333;
+  }
+  
+  .notification {
+    margin-top: 10px;
+    padding: 12px;
+    border-radius: 8px;
+    font-size: 1rem;
+    text-align: center;
+  }
+  
+  .notification.success {
+    background-color: #4caf50;
+    color: #fff;
+  }
+  
+  .notification.error {
+    background-color: #f44336;
+    color: #fff;
+  }
+  
+  .error {
+    color: #f44336; 
+  }

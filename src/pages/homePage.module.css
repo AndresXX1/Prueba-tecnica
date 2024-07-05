@@ -1,0 +1,61 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    width: 100%;
+    background-image: url("https://cdn.wallpapersafari.com/20/62/8EyeZM.jpg");
+    color: #373636;
+    padding-top: var(--navbar-height); 
+    box-sizing: border-box;
+  }
+  
+  .header {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .profileImage {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 4px solid #5a585899;
+    object-fit: cover;
+    margin-bottom: 20px;
+  }
+  
+  .userTitle {
+    font-size: 2.5rem;
+    font-weight: bold;
+  }
+  
+  .userName {
+    font-size: 4rem;
+    font-weight: bold;
+    margin-bottom: 0px;
+    margin-top: 70px;
+  }
+  .socialLinks {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.socialIcon {
+    width: 40px; 
+    height: 40px;
+    margin: 0 10px; 
+}
+  
+  @media (max-width: 750px) {
+    .profileImage {
+      width: 80px;
+      height: 80px;
+    }
+  
+    .userName {
+      font-size: 2rem;
+      margin-top: 20px; 
+    }
+  }
