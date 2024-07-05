@@ -28,14 +28,10 @@ Seguime en linkedin! :D
     $ npm install
     ```
 
-3. Inicia el proyecto y accede a la pagina 
-
- ```bash
-    $ npm run dev
-    ```
 
 
-4. 🏃‍️ Inicia la aplicacion!
+
+3. 🏃‍️ Inicia la aplicacion!
 
     ```bash
     $ npm run dev
